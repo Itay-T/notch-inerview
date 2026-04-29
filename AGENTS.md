@@ -16,7 +16,6 @@
 
 ## Coding Guidance
 
-- Keep changes focused on the interview exercise requirements in `readme.md` and the current implementation notes in `implementation-readme.md`.
 - Preserve the existing separation between controller, manager, schema, service, and config code in the backend.
 - Prefer small, readable React components and keep styling near the existing frontend CSS/styled-components patterns.
 - When changing OpenAI behavior, keep server-side validation for the "different emoji signature" requirement intact.
